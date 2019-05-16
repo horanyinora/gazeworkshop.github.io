@@ -362,12 +362,23 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
 
 <br>
 
-<div class="row">
+<div class="row" >
   <div class="col-xs-12">
-    <h2>References</h2>
+    <h2>Workshop sponsored by:</h2>
   </div>
 </div>
 
+<div class="row">
+  <div class="col-md-3">
+    <a href="https://www.samsung.com/"><img src="/static/img/samsung.png" /></a>
+  </div>
+  <div class="col-md-3">
+    <a href="https://www.nvidia.com/"><img src="/static/img/nvidia.jpg" /></a>
+  </div>
+  <div class="col-md-3">
+    <a href="https://www.tobii.com/"><img src="/static/img/tobii.jpg" /></a>
+  </div>
+</div><br>
 
 <!--{:.paper}
 <span>[1] Fast and Flexible Indoor Scene Synthesis via Deep Convolutional Generative Models</span>{:.papertitle}  
